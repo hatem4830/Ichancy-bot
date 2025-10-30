@@ -1,2 +1,11 @@
 aiogram==2.25.1
-aiosqlite
+aiohttp==3.8.6
+async-timeout==4.0.3
+Babel==2.12.1
+certifi
+charset-normalizer
+idna
+multidict
+pytz
+typing-extensions
+yarl
